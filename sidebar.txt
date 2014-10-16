@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cna:home|Door43 (cna)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cna|d43-cna repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cna/archive/master.zip|d43-cna.zip]]
+
+**Recent Changes**
+{{changes>ns = cna}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cna|Ethnologue data]]
+
